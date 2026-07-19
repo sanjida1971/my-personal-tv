@@ -1,17 +1,28 @@
 #EXTM3U
-#EXTINF:-1 group-title="FiFA World cup",T Sports HD BDiX
-#EXTGRP:FiFA World cup
+#EXTINF:-1 group-title="FiFA World Cup 2026",T Sports HD BDiX
+#EXTGRP:FiFA World Cup 2026
 https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/mesSMHEkmCMea53FPYgJBQ/1782331625/T-SPORTS-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="FiFA World cup",SOMOY TV HD BDiX
+#EXTINF:-1 group-title="FiFA World Cup 2026",SOMOY TV HD BDiX
 https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/GRPIWimnHPra1L_RLBTfkw/1783678082/SOMOY-TV-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="FiFA World cup",BTV HD BDiX
+#EXTINF:-1 group-title="FiFA World Cup 2026",BTV HD BDiX
 https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/C4LmBDvcGFQDRtcD6GdXZg/1783678181/T-SPORTS-2/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="FiFA World cup",T Sports HD BDiX (server2)
+#EXTINF:-1 group-title="FiFA World Cup 2026",T Sports HD BDiX (server2)
 http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
-#EXTINF:-1 group-title="FiFA World cup",SOMOY TV HD BDiX (server2)
+#EXTINF:-1 group-title="FiFA World Cup 2026",SOMOY TV HD BDiX (server2)
 http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="FiFA World cup",CCTV SPORTS HD
+#EXTINF:-1 group-title="FiFA World Cup 2026",CCTV SPORTS HD
 https://live01-cn-ali.bvjicd.com/live/79361366.m3u8
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="FiFA World cup",BeIN sports Max 5 HD
-#EXTGRP:FiFA World cup
-https://node8.no-612.workers.dev/resource/MjQwNTk5MDY0MTY5OjI0MDU5OTA2NDE2OToxMjAzNTpsaXZl/index
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="FiFA World Cup 2026",beIN Sports (FHD) 🇷🇺
+http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/6128/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="FiFA World Cup 2026",Telemundo (FHD) 🇵🇷
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="FiFA World Cup 2026",S Sports (FHD) 🇷🇺
+https://cdn4.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Sports",Caze TV (FHD) 🇧🇷
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Sports",FIFA+ (HD) 🇺🇸
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Sports",FOX Sports (FHD) 🇺🇸
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8Cd7JZyx/logo.png" group-title="Sports",TyC Sports (FHD) 🇧🇷
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
