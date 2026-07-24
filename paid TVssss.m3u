@@ -1,155 +1,401 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",Star Jalsha 3
-https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",Zee Bangla 3
-http://starshare.cx/PeH5kPWFfG/infamous7funny/23305
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",Gopal Bhar TV
-https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",Enter10 Bangla
-https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",T Sports HD 2
-http://198.195.239.50:8095/tsports/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",Jamuna TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",Somoy TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",Channel 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",Independent TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",Ekattor
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",ATN NEWS
-https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",BTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1707/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",NEWS24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",BTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",Star News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",Deepto
-https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",BPK TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",Bangla Vision
-https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",N TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",SA TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",ATN BANGLA
-https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",Machranga
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",Channel I
-https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",Islamic TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",DBC NEWS
-https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",Channel 9
-https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",Deepto TV
-https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",Channel S TV
-https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",Global TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",Ayna TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",Jago News 24
-https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",CNN Now
-https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",DW English HD
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",Tom & Jerry TV
-https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",Doraemon TV
-https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Bangla",Mr Bean Animated
-https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Indian-Bangla",Zee Bangla 2
-http://starshare.cx/PeH5kPWFfG/infamous7funny/435
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",World Cup A1 🇧🇩
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",World Cup A2 🇧🇩
-http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",T Sports 🇧🇩
-http://114.130.57.233:8080/TsportHD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",BTV Live 🇧🇩
-http://103.14.151.101:11/manik-kuttar-baccha-telegram-batpar.m3u8
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",BTV B 🇧🇩
-https://tv.beyondtaxconsultants.com/api/btv/btv.m3u8
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",Somoy TV 🇧🇩
-http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",Somoy TV B 🇧🇩
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",Toffee Live
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl=Expires=1781889962~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ__yhQoYQ9quTfH5m5S8aVHfNHn65noStJ3WkyY-eBA7y2smXsQ1P_0pKKB1Jc2CsEoHWlzkjB9zSNYr6xh7NsG
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",World Cup S2
-https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",FIFA Live - Bangla 🇮🇳
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=2137600.m3u8
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",FIFA Live - Bangla A 🇮🇳
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",Unite 8 Sports 1 HD 🇮🇳 Hindi
-http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",616 Sports 4K
-http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",Go Live Sports
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",Go Live Sports B
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",S Football
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",Bein Sports 1 Max Arabic
-http://starhub.pro/live/farhat-3379/67897-913379/744517.ts
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",Bein Sports
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",PTV Sports B 🇵🇰
-http://stalker.hakunamata.workers.dev/play/1099/index.m3u8
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",PTV Sports C 🇵🇰
-http://premiumtvs.space/live/jen12345/Jen54321/89.ts
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",Fox Sports - FIFA 2026
-http://84.17.50.102/fox/index.m3u8
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",Fox Sports 1 - FIFA 2026
-http://41.223.30.230/FOXSPORTS1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",M6 Sports
-https://tv.beyondtaxconsultants.com/api/robi/lps/http://151.80.18.177:86/M6_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",Caze Tv 🇧🇷 Brazil
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",Win Sports
-https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",Dazn Direct
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",TVP Sports
-https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",D Sports
-https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",TYC Sports
-https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",Tv Azteca
-https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",Tudn Sports 🇲🇽
-https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Akash Sports",Fussball Tv B
-http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8sgjYtH/resized-300x180-ffffff-12.jpg" group-title="Akash Sports",MAX HD
-https://webott.viatv.com.np/v0t1/CineplexHD.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h1Wvy09C/1000283988.png" group-title="Akash FIFA",T Sports 1
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y903JSq8/20260612-095648.jpg" group-title="Akash FIFA",Bein Sports 1
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y903JSq8/20260612-095648.jpg" group-title="Akash FIFA",WIN Sports
-https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Akash Football World Cup 2026",Football World Cup 2026 Hindi
-http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Akash Football World Cup 2026",Football World Cup 2026 (4K)
-https://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/688290.ts
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Akash Football World Cup 2026",Football World Cup 2026 (4K) 2
-http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Akash Football World Cup 2026",Football World Cup 2026 (4K) 3
-http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
+#EXTINF:-1,JAMUNA TV
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqa-O-u2knu3Ullp6s0BDC4U
+#EXTINF:-1,JAMUNA TV HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqccnWzywFuIzDS3vzCnaC3g
+#EXTINF:-1,SOMOY TV HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqWrgoo2Z-0Y-M_Y3NVAXL_Q
+#EXTINF:-1,INDEPENDENT
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqdg9sLHBggQCESBT-sewHGk
+#EXTINF:-1,EKATTOR TV HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqcFWQyO0TkWuIqrKEehTko4
+#EXTINF:-1,CHANNEL 24 HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqVzZC8Va8jQ_vF-5ncC7Kss
+#EXTINF:-1,NEWS 24 HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqaRjYbiddUFWpgqQKkEldws
+#EXTINF:-1,ATN NEWS HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqYGAQFsTYB1GPufqMWi5TgE
+#EXTINF:-1,DBC NEWS HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqREbL9B6RLwj3z6HmEJ8BXw
+#EXTINF:-1,STAR NEWS HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqcmeTD0x1h5WV3713Myy46c
+#EXTINF:-1,BTV NATIONAL HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqed4TXb8vnKkjwoNqWbXhzE
+#EXTINF:-1,BTV NEWS
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqcAWn8Y9GReOhcweSlfRh80
+#EXTINF:-1,ATN BANGLA HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqVf6jB1PIoUCIZUZKeBG16w
+#EXTINF:-1,CHANNEL I HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqX0JkuekZ3YWeg2l3wOHPsU
+#EXTINF:-1,EKUSHEY TV HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqcP1YvaWxclZZ9uVyJNVusU
+#EXTINF:-1,NTV HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqaqLVqeDh5FMdOYE5hv7rrE
+#EXTINF:-1,RTV HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqakm7NSuXjyKUNNbEUA31WY
+#EXTINF:-1,BOISHAKHAI TV HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqQd5k1o6WDAT5M9QuqnXsXE
+#EXTINF:-1,BANGLA VISION HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqcUMmw_fiPRi-P61nRaU3WQ
+#EXTINF:-1,MY TV HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqRPvQ-Lp-AGDnpwRCNpazMY
+#EXTINF:-1,MOHONA TV HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqQ-12Hb_NvYl6aE3nKEEpdY
+#EXTINF:-1,MAASRANGA TV HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqWhPDymFSIOL5euT3MNMM50
+#EXTINF:-1,CHANNEL 9 HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqTudQzOVyHmyRnms7OnDxhw
+#EXTINF:-1,GAZI TV HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqWf28xBk2kA_lZZPIoJ8DR8
+#EXTINF:-1,ASIAN TV HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqWVy_Lzf0Ld7W67qRJ4Xp0c
+#EXTINF:-1,DESH TV HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqclvGAjiniCYUjig83Hjpcg
+#EXTINF:-1,SATV HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqRnzfpxSokYaJjX6hvo6wn4
+#EXTINF:-1,BIJOY TV HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqYPba39wcuTd6iegT4v0DzA
+#EXTINF:-1,DEEPTO TV HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqQPif4KkGJG1a51t2k6cXxw
+#EXTINF:-1,NAGORIK TV HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqZhvF-exhR_r5-pGSXUDO_Q
+#EXTINF:-1,DURONTO TV HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqVt1BhqlgruxajP8bJYTkQI
+#EXTINF:-1,ANANDA TV HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqakhF6MMiA5Xann9Wdo7s1I
+#EXTINF:-1,NEXUS TV HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqWvfvFc5oh2ntQXmRXtR000
+#EXTINF:-1,EKHON TV HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqQ5dO2DP3llF3FpFnhC0-do
+#EXTINF:-1,GLOBAL TV HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqfYdRbLzDXFapSmP63VpBCA
+#EXTINF:-1,MOVIE BANGLA
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqaawYKjp5wjeiy3L_UBwonU
+#EXTINF:-1,BANGLA TV HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqdJ19zWL2phOySAavFQN_UQ
+#EXTINF:-1,RAJDHANI TV
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqdAGiqzy62MT-AQbxzOsp7g
+#EXTINF:-1,ISLAM CHANNEL BANGLA
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqcipj7pOU_QuWWfeTtpmmD4
+#EXTINF:-1,TIME TELEVISION
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqahuObjg0fyu0DK1tcwv1WU
+#EXTINF:-1,STAR JALSHA
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqaNnx4ijOqIIfBdqhU-j95A
+#EXTINF:-1,STAR JALSHA HD*
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqdb_KDCRLoB6-I8jWhUYyyM
+#EXTINF:-1,JALSHA MOVIES HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqcNosvYmgB6PyRO7XtzqOg0
+#EXTINF:-1,JALSHA MOVIES*
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqTkiojhblBtVxBZBPXtnh1A
+#EXTINF:-1,SUN BANGLA HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqf7abeDn-OrbC9Abe15JFpE
+#EXTINF:-1,ZEE BANGLA
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqRbWrD1PYEBcbn6i_gNbCGM
+#EXTINF:-1,ZEE BANGLA HD*
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqfwazaxsMXHMZsMfwncitaQ
+#EXTINF:-1,ZEE BANGLA CINEMA
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqWQGd3ZkJvYeN6kPJDLg8W8
+#EXTINF:-1,COLORS BANGLA
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqUZzgD2Qn3DXObOE34pIDKg
+#EXTINF:-1,COLORS BANGLA HD*
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqXq2Hx38A_6FYH6rdiCd7Ho
+#EXTINF:-1,COLORS BANGLA CINEMA
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqcpBiOkZmJdeZHRUii4w4jc
+#EXTINF:-1,IN: ENTER 10 BANGLA
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqSnpArbM3KH7rtJ1S_EMDCs
+#EXTINF:-1,SONY AATH
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqe6uws4Fw-8o_F3UGhSJHdA
+#EXTINF:-1,SONY AATH*
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqdfjR0cZQBQu1YXuZJ5YCFc
+#EXTINF:-1,RUPOSHI BANGLA
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqU9I2XZvn6KABSREhO7bW0Q
+#EXTINF:-1,AAKASH AATH
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqRhWoJghuG0GEcGsUJEcasw
+#EXTINF:-1,SANGEET BANGLA
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqblX9Jwc07ey0JmLDRhVp5E
+#EXTINF:-1,IND | AMAR BANGLA
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqRTypdWi8gZvEOtlPoaFboE
+#EXTINF:-1,IND | AMAR DIGITAL
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqdePFJTWKgOumJaCSpkzkQ8
+#EXTINF:-1,DD BANGLA
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqfEbToOqEt9SyoRoIlW9P5U
+#EXTINF:-1,BANGLA PLUS HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqSO5oCAcbBhJcc92paUbwa4
+#EXTINF:-1,KHUSBU BANGLA
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqZb2TLG6Tp6S6knMIgU_iRA
+#EXTINF:-1,NEWS 18 BANGLA
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqZaNgj-EbbuURrCxATK81q4
+#EXTINF:-1,ABP ANANDA
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqdjKpV3jnlOWwvJyz8uiTuE
+#EXTINF:-1,R PLUS GOLD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqY6PRuuKkwdZFTXMpfwTYL8
+#EXTINF:-1,CN NEWS bangla
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqRxYUPUf0LrY9-ROyYhwuzE
+#EXTINF:-1,TV 9 BANGLA
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqa6j1wOaAZHH5yJbhNPfWWU
+#EXTINF:-1,BANGLA JAGO
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqXJUtapySwK-V-1lIP7nQoA
+#EXTINF:-1,IN: -HINDI- STAR SPORTS 1 HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqXRaaI1duUEs4V2vKVtPof8
+#EXTINF:-1,ZEE 24 GHANTA
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqVC9QCwBqvYEcvPzqwHm6jQ
+#EXTINF:-1,IN: STAR SPORTS 1  HD*
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqXwRZCjWkwCaTXZJAHrIX24
+#EXTINF:-1,IN: STAR SPORTS 2 HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqV2c7seOAQti84AjtxlqgtY
+#EXTINF:-1,IN: STAR SPORTS 3
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqWTSM2Thhb6lhwx-X1D9eHM
+#EXTINF:-1,IN: STAR SPORTS SELECT 2 HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqbWON20H8ZFqRqRSOESfQ30
+#EXTINF:-1,IN: STAR SPORTS SELECT 1 HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqQh2mHYSlKUjmq8Lxwh-3mo
+#EXTINF:-1,BD: T SPORTS
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqe2MfK0V9JSIZb7RxhRIl04
+#EXTINF:-1,BD: T SPORTS HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqWOIH-qUPwcPdxgrUsKGrnc
+#EXTINF:-1,IN: SONY SPORTS TEN 1 HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqYX8O2OQLg_vxqUhu54AlOM
+#EXTINF:-1,IN: SONY SPORTS TEN 2 HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqQeIFjgMEvBbnJiXgOM_1Ns
+#EXTINF:-1,IN: SONY SPORTS TEN 3 HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqbEIl0_fw5ZQou_Hwna8Dhw
+#EXTINF:-1,IN: SONY SPORTS TEN 5 HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqYsieM0vRg-yEMIPBdc5WQ8
+#EXTINF:-1,IN: EUROSPORT
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqf0CptTw-8TVVO5blgyejik
+#EXTINF:-1,IN: DD SPORTS HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqffdi3P4XeizQxv1MUi2SHg
+#EXTINF:-1,PK: A SPORTS HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqbLVBrPLHcziZY0fB6PAUik
+#EXTINF:-1,PK: TEN SPORTS HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqeSwkUGKDagjaHHcsYV-PtI
+#EXTINF:-1,PK: TEN CRICKET
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqaJVGJ-52xzgg8Kzxh_XiOA
+#EXTINF:-1,PK: PTV SPORTS
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqeNMzeiC3fqnlNnkCpZ2v00
+#EXTINF:-1,MY: ASTRO CRICKET
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqbqIttfrGwa9QhRVCDrf7E8
+#EXTINF:-1,PK: GEO SUPER
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqd6cxqbg5PdZ79rIuu3tvWA
+#EXTINF:-1,US: WILLOW CRICKET HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqeECAUPFBdYbXEas3kGvkfM
+#EXTINF:-1,US: WILLOW 2
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqdJ5agIUkdNszNjI76Sspcc
+#EXTINF:-1,US: SKY SPORTS CRICKET
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqaCHcvi80uHB4LxkkyQ86Jo
+#EXTINF:-1,UK FOX SPORTS CRICKET
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqSLW1HNPvTMVRFI8O-fgk5U
+#EXTINF:-1,US: ESPN 1
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqUwna7MCWr8nuxQjF2Is91U
+#EXTINF:-1,US: ESPN 2
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqfDk509TBShEaA4agHly7s0
+#EXTINF:-1,UK: EUROSPORT 1
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqSpIGGAWfb7tff71V4diw0I
+#EXTINF:-1,UK: EUROSPORT 2
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqXFmuNV2qjC53tlK6Myuqms
+#EXTINF:-1,UK: TNT SPORTS 1 HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqchtCKX-hwf4fD6Q1aqO1qI
+#EXTINF:-1,UK: TNT SPORTS 3 HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqXEPAZzubQrCNJK6RWGgeUE
+#EXTINF:-1,UK: TNT SPORTS 2 HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqaGeYPniuvUAnWQ0-kEaO9M
+#EXTINF:-1,ANIMAL PLANET HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqTdbdy-RWdp038y8ACP_aq0
+#EXTINF:-1,DISCOVERY HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqRRrAJ2SsjSyLO6qAePuX5w
+#EXTINF:-1,DISCOVERY SCIENCE
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqRzQ5UxiFWq5a2KR8jfG-88
+#EXTINF:-1,NAT GEO BANGLA
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqdXLXocWRumO--y4M0uF4MM
+#EXTINF:-1,INVESTIGATION DISCOVERY
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqenFPU6sUYCoBDLMsHCBEaU
+#EXTINF:-1,WILD EARTH
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqa_AmorKqiFUjzXxh6iJmqo
+#EXTINF:-1,TRAVEL XP HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqTNOuNM1Sx6olTqY7Oi-b6o
+#EXTINF:-1,HISTORY TV
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqdgsj-j_BClVuacENIE9zJ4
+#EXTINF:-1,SONY MAX HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqWLTDtJU3V3rcYJ2krxDZWM
+#EXTINF:-1,STAR GOLD HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqUQWz2voAGU0ZQTvCtP3mSE
+#EXTINF:-1,STAR GOLD 2
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqWUwLQNOWrV4htWqNd0iYIw
+#EXTINF:-1,SONY WAH
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqfEPDDnfWhlvB-E3eW8gayo
+#EXTINF:-1,STAR GOLD SELECT HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqUe7JEspaLShlRYZwiyJl9k
+#EXTINF:-1,STAR GOLD ROMANCE
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqWuqsrs-tnCWweRx5tTLrRE
+#EXTINF:-1,STAR GOLD THRILLS
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqc5VdaW_8gOX8e0BfrHLOA8
+#EXTINF:-1,&PICTURE HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqSRNbB8nOLf9bDUmEFEv1EI
+#EXTINF:-1,COLORS CINEPLEX HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqXQ4qH7p2Fl6qDTRDs56734
+#EXTINF:-1,COLORS CINEPLEX BOLLYWOOD*
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqSjDRavrNxhokhSTnt-vgvw
+#EXTINF:-1,COLORS CINEPLEX SUPERHIT
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqVbfzTi887QA7IJ1IowCm-g
+#EXTINF:-1,ZEE CINEMA HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqQ_s6gzEvDrfATECuiZhi1A
+#EXTINF:-1,ZEE BOLLYWOOD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqTShy8H7Zl5HkfaCW2LJk5E
+#EXTINF:-1,ZEE ACTION
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqb_7MFc8JoeNofH12iSTNjk
+#EXTINF:-1,ZEE ANMOL CINEMA
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqZOrP38qrnHAb-9nnrcCFB4
+#EXTINF:-1,B4U MOVIES
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqZTQRu9GJw3ukSzbB5hLM-M
+#EXTINF:-1,GOLDMINE
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqQ_NmgRnK1K6s3nArkkR98I
+#EXTINF:-1,GOLDMINE MOVIE
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqYMA5ocIw5SJtfP6d1uKrEI
+#EXTINF:-1,GOLDMINE BOLLYWOOD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqZ45GNhyM3h3MckgSWGJPkc
+#EXTINF:-1,BOLLYWOOD CLASSIC HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqYnHLFLeFMd7f7qKGPqo7_o
+#EXTINF:-1,STAR PLUS
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqWRU3vbARhDOu-SkP2ctxko
+#EXTINF:-1,STAR PLUS HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqRmPg8tVXW8N8ZVsFRtKGCo
+#EXTINF:-1,STAR BHARAT HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqa7C9DwuT_w-lzkm2cIBk9o
+#EXTINF:-1,SONY TV HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqTRB2KfYmMe_AXHMWEbzYFc
+#EXTINF:-1,SONY SAB HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqUnszU9M7OuonVypNKw03PU
+#EXTINF:-1,ZEE TV HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqRQdbs42qRGgbm7lA6nkr1g
+#EXTINF:-1,COLORS HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqZHmYuN_iOrzq57brj9sm08
+#EXTINF:-1,&TV HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqZCc4EXBNC8CGSqU090C2aI
+#EXTINF:-1,MANORANJAN TV
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqW5zSBjkT30uWCv3pIzzBnA
+#EXTINF:-1,DD NATIONAL
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqXnssFuuV9Uj-MsRWAYB3WQ
+#EXTINF:-1,DANGAL TV
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqUVxmiZcMJVwGtHvxBmKfL4
+#EXTINF:-1,DANGAL 2
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqXjglQn5WbZEiP4ymBbIA6g
+#EXTINF:-1,ISHAARA TV
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqd1FngvUC_21s2iQCj7XHmo
+#EXTINF:-1,NAZARA TV
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqcxWqzVuAgLFDxXOUqQDbaw
+#EXTINF:-1,Fimachi
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqXsW6LWbFYNEB0HpMHg_IyI
+#EXTINF:-1,DABANGG
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqSZm8uEsKs65Zi1RpCMd7kU
+#EXTINF:-1,CANADA ONE
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqZYd1B2-O2UPvgJt9KUNn-g
+#EXTINF:-1,9XM
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqX5fM8G7vDrdgmCvAOvo-eY
+#EXTINF:-1,9X JALWA
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqRlO1MNeZCSxX4-jBIxGw_s
+#EXTINF:-1,MASTIII
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqfeidTgFfCsGGuQuib1K_Q0
+#EXTINF:-1,MTV HD +
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqanf4F4w0ibWx4M6HZyQdiM
+#EXTINF:-1,ZOOM
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqdyYhS8QvDiJH5p5RU_WXnc
+#EXTINF:-1,E 24
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqX2hWBl_aLacph1TgPFwG64
+#EXTINF:-1,MUSIC INDIA
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqX-3W8cH3eY-99r778K3E0E
+#EXTINF:-1,PTC MUSIC
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqSW-1XTPed-XhvsG02lTriE
+#EXTINF:-1,BOOGLE BOLLYWOOD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqf2oOxc8vmWDoL70uK0fcwA
+#EXTINF:-1,PK:  JOO MUSIC
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqccVAHMlEyXgU2CHKJOAwhc
+#EXTINF:-1,DABANGG TV
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqYg50XMMWEvUD_mL1jbofGw
+#EXTINF:-1,BHOJPURI CINEMA
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqVKAfaV96ORvPspxA0XkXBE
+#EXTINF:-1,ISAI ARUVI TV
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqUvWc7-kLVsv7y5va5WZOqo
+#EXTINF:-1,IN: CARTOON NETWORK
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqXYcJzrAVrUbhD-tQR7uW9U
+#EXTINF:-1,POGO
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqZjZdpWErAnybXdtKjVV6Ls
+#EXTINF:-1,SONIC BANGLA
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqVudTmP8BZJ76WcMJlDCT7g
+#EXTINF:-1,NICK BANGLA
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqTlV_cAevGSRlk3RBsf60FE
+#EXTINF:-1,HUNGAMA TV
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqSvqDaID2gHvzbaDsc2DQc4
+#EXTINF:-1,SUPER HUNGAMA TV
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqd9lse_BMUW_qbQ8x2gIn9Q
+#EXTINF:-1,SONY YAY !
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqXkXTfS2aUVb9-tDVxgtttE
+#EXTINF:-1,RONGEEN TV
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqWJI9n86TcY3QMTUWGbfJbw
+#EXTINF:-1,Disney hindi
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqeK_AILQZyXwHpOH2E5Kal8
+#EXTINF:-1,Disney HD HINDI
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqQZIoXUc6ZVn0J3qEt-nL8c
+#EXTINF:-1,NICK JR
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqVyZ3aqgDQ5dvTEsgCedexs
+#EXTINF:-1,CARTOON NETWORK HD+
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqfNF79TNZUQgIeLgJA-XJlI
+#EXTINF:-1,IND: DISCOVERY KIDS
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqZHnvKqGEfMuq_HgJmyHXcs
+#EXTINF:-1,DISNEY JUNIOR
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqXByOXSYM21CEp_qLD3Cfdc
+#EXTINF:-1,NICK HD +
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqW-VXQLMvyFY9bhlYlQU6iE
+#EXTINF:-1,NIKI JR KIDS
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqcZF0hyItx4OPlXTKTVqLoQ
+#EXTINF:-1,PBS KIDS
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqUPNHSnC7kSuJNsUIItia80
+#EXTINF:-1,SPOCETOON
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqQcI0KX9xCDqesf9iF3MlRQ
+#EXTINF:-1,STAR MOVIES HD*
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqYzFiDRXV3PRHM9i77U8qws
+#EXTINF:-1,STAR MOVIES SELECT HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqXJ4bFPFPSGcxhZeAaVqWx0
+#EXTINF:-1,SONY PIX HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqZbgW37wsm7yNfnj98EXdUc
+#EXTINF:-1,MNX HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqQ3X2lgZm7PK5q7RNfNbXls
+#EXTINF:-1,IND: UNITE8 SPORTS 2 HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqbMf5qud118zjoT2bh1OQTk
+#EXTINF:-1,MN+ HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqTgJnRW0r4DsQerIDzFZpJY
+#EXTINF:-1,MOVIES NOW HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqe2TJkGKOrIQxyxNCsdbw0g
+#EXTINF:-1,ROMEDY NOW
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqbArlTXQJjHc9TgGnoyqcp0
+#EXTINF:-1,Zee cafe
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqYAkFk6-ADSDukWql2oyrqk
+#EXTINF:-1,ZEE CAFE HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqcC9SS2jLRoEQ28oyEcw5Ow
+#EXTINF:-1,COLORS INFINITY HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqa6AHJUoxYXhRw1zd2basms
+#EXTINF:-1,ACTION HOLLYWOOD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqWei76ugTZYSdxT50myd0g0
+#EXTINF:-1,DUBAI ONE
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqSYviGV3I0DqZY5qP9qfkHU
+#EXTINF:-1,HOLLYWOOD HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqX4-UpAcQEr4p3pojGOLq3A
+#EXTINF:-1,MOVIE SPHERE
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqa8-nXQnEcmLVtMLsLsfikA
+#EXTINF:-1,STAR CHANNEL
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqVgqtIYIjtphypUvWtT410w
+#EXTINF:-1,FX MOVIES
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqSnS7pJsRvZR0SJGfkgd0wI
+#EXTINF:-1,MY FAMILY CHANNEL
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqWhplrHHA_f4xo7CcHUJ4bk
+#EXTINF:-1,MY CINEMA HD
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqRU89gVAw_3c_Ka8docYlb0
+#EXTINF:-1,SyFy
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqUyO82hL82zqoVjQZ_vJQuM
+#EXTINF:-1,NASA TV
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqd5wc8LZMoQ4NnESkWLMMH0
+#EXTINF:-1,ADVENTURE 4K
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqeZhDAgbTScK6YY4b5VvH-E
+#EXTINF:-1,VIASAT NATURE
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqaCxeE3KwTKFeOXptePP-_k
+#EXTINF:-1,DMAX
+http://dv.ttvbd.top:80/play/InaZVnqeN5dHjLG5dW2uqeVi3YTxKSEyRR5nLi23hGo
